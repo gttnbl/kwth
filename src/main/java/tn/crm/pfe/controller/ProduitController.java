@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bezkoder.spring.login.controllers.Produit;
+import com.bezkoder.spring.login.models.Produit;
 
 import tn.crm.pfe.service.ProduitService;
 
